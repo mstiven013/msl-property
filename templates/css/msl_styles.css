@@ -1,0 +1,5 @@
+/*Styles for searchform*/
+input#s_Precio, input#s_Area {
+    display: inline-block;
+    width: auto;
+}
